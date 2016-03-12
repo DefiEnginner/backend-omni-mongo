@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: Homemade-env-production
+global:
+  application_name: Homemade
+  default_ec2_keyname: null
+  default_platform: 64bit Amazon Linux 2018.03 v4.10.2 running Node.js
+  default_region: us-west-2
+  profile: eb-cli
+  sc: git
